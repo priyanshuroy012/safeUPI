@@ -1,0 +1,30 @@
+# SafeUPI backend dependencies
+# Python 3.11+ recommended
+
+# API
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.7,<3.0
+
+# Database
+SQLAlchemy>=2.0,<3.0
+psycopg2-binary>=2.9,<3.0
+
+# Data / ML
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+scikit-learn>=1.5,<2.0
+
+# Transaction graph
+networkx>=3.3,<4.0
+
+# HTTP / configuration
+requests>=2.32,<3.0
+python-dotenv>=1.0,<2.0
+
+# Security / authentication
+PyJWT>=2.9,<3.0
+passlib[bcrypt]>=1.7,<2.0
+
+# Multipart/form handling and CORS
+python-multipart>=0.0.9,<1.0
