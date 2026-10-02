@@ -1,6 +1,10 @@
 # SafeUPI
 
 SafeUPI is a modular UPI payment-risk detection prototype designed to demonstrate how transaction risk scoring, mule-account detection, and transaction-network analysis can be integrated into a payment workflow.
+<img width="938" height="484" alt="image" src="https://github.com/user-attachments/assets/5772b061-1346-4ea4-9c3f-06ad53577ff2" />
+
+<img width="950" height="468" alt="image" src="https://github.com/user-attachments/assets/7f0614bb-7e86-4d7d-b666-e6a4b9984659" />
+
 
 ## Project structure
 
