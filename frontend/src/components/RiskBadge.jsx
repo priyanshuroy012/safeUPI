@@ -1,0 +1,1 @@
+export default function RiskBadge({level="LOW"}){let x=String(level).toUpperCase();return <span className={`risk ${x.toLowerCase()}`}>{x}</span>}
